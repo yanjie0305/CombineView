@@ -1,1 +1,1 @@
-include ':app', ':progressview', ':countball', ':timeview', ':slidelockview'
+include ':app', ':progressview', ':countball', ':timeview', ':slidelockview', ':combineview'

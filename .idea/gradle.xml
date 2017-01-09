@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/combineview" />
             <option value="$PROJECT_DIR$/countball" />
             <option value="$PROJECT_DIR$/progressview" />
             <option value="$PROJECT_DIR$/slidelockview" />
